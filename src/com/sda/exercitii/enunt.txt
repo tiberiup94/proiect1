@@ -1,0 +1,11 @@
+1. Creati o clasa pentru gestionarea studentilor dintr-o universitate.
+Campurile:
+- Nume
+- Data nasterii
+- Cod student (sa nu mai poata fi modificat dupa crearea studentului)
+- Array cu notele obtinute in primul semestru
+- Numarul total de studenti
+Metodele:
+- O metoda care sa ne intoarca numarul total de studenti
+- O metoda care sa ne returneze media notelor pe primul semestru
+- O metoda care sa ne intoarca varsta studentului
